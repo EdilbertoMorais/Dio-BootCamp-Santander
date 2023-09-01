@@ -5,8 +5,7 @@ public class BlocoEstruturaDoWhile {
     // estrutura do controle de fluxo do-while
 
     /*
-        do
-        {
+        do {
        comando que será executado até que a
        expressão de validação torne-se falsa
         }
