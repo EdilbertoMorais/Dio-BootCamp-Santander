@@ -17,7 +17,7 @@ public class FormatadorCepExemplo {
     }
 
     static String formatarCep(String cep) throws CepInvalidoException {
-        //verifica se o comprimento da string cep não é igual a 8 caracteres.
+        //Verifica se o comprimento da string cep não é igual a 8 caracteres.
         // Se não for, isso indica que o CEP não está no formato esperado lançando uma CepInvalidoException.
         if (cep.length() != 8)
             throw new CepInvalidoException();
