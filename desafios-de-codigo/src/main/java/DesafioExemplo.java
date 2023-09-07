@@ -15,7 +15,7 @@
 
 import java.util.Scanner;
 
-public class Desafio {
+public class DesafioExemplo {
     public static void main(String[] args) throws InterruptedException {
         // Lê os valores de Entrada:
         Scanner leitorDeEntradas = new Scanner(System.in);
