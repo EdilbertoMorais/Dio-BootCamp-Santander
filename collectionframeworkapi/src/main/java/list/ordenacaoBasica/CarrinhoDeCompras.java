@@ -8,7 +8,7 @@ public class CarrinhoDeCompras {
     // Atributo
     private List<Item> itemList;
 
-    // O construtor quando for chamado, vai instânciar um ArrayList() vazio do tipo Tarefa.
+    // O construtor quando for chamado, vai instânciar um ArrayList() vazio do tipo CarrinhoDeCompras.
     public CarrinhoDeCompras() {
         this.itemList = new ArrayList<>();
     }
