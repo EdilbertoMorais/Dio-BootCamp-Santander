@@ -1,4 +1,4 @@
-package set.pesquisaemset.listatarefas;
+package set.pesquisaEmSet.listatarefas;
 
 public class MainListaTarefas {
     public static void main(String[] args) {

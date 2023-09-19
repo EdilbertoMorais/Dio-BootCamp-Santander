@@ -1,7 +1,6 @@
-package set.pesquisaemset.listatarefas;
+package set.pesquisaEmSet.listatarefas;
 
 import java.util.HashSet;
-import java.util.Objects;
 import java.util.Set;
 
 public class ListaTarefas {

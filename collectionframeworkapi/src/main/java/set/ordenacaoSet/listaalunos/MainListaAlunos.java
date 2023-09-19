@@ -1,4 +1,4 @@
-package set.ordenacaoset.listaalunos;
+package set.ordenacaoSet.listaalunos;
 
 public class MainListaAlunos {
     public static void main(String[] args) {

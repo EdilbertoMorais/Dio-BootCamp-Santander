@@ -1,4 +1,4 @@
-package set.ordenacaoset.cadastroproduto;
+package set.ordenacaoSet.cadastroproduto;
 
 public class MainCadastroProdutos {
     public static void main(String[] args) {

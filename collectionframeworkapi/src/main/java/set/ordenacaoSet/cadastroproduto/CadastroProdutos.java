@@ -1,4 +1,4 @@
-package set.ordenacaoset.cadastroproduto;
+package set.ordenacaoSet.cadastroproduto;
 
 import java.util.HashSet;
 import java.util.Set;

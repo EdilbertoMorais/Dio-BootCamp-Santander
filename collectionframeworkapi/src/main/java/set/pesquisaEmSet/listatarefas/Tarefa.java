@@ -1,4 +1,4 @@
-package set.pesquisaemset.listatarefas;
+package set.pesquisaEmSet.listatarefas;
 
 import java.util.Objects;
 

@@ -1,6 +1,4 @@
-package set.conjuntopalavras;
-
-import set.convidado.ConjuntoConvidados;
+package set.conjuntoPalavras;
 
 import java.util.HashSet;
 import java.util.Set;

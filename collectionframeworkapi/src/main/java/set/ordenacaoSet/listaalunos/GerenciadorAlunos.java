@@ -1,4 +1,4 @@
-package set.ordenacaoset.listaalunos;
+package set.ordenacaoSet.listaalunos;
 
 import java.util.HashSet;
 import java.util.Set;

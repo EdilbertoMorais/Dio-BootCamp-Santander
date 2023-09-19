@@ -1,4 +1,4 @@
-package set.pesquisaemset.agendaContatos;
+package set.pesquisaEmSet.agendaContatos;
 
 
 public class MainAgendaContatos {

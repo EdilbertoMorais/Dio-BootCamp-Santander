@@ -1,4 +1,4 @@
-package set.conjuntopalavras;
+package set.conjuntoPalavras;
 
 public class MainConjuntoPalavrasUnicas {
     public static void main(String[] args) {
