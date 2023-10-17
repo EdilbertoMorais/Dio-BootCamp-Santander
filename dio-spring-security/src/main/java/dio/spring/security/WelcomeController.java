@@ -12,15 +12,11 @@ public class WelcomeController {
     }
 
     @GetMapping("/users")
-    //realiza uma pré-verificação de autorização considerando o perfil do usuário;
-    @PreAuthorize("hasAnyRole('MANAGERS','USERS')")
     public String users() {
         return "Authorized user <br> Tradução: Usuário autorizado";
     }
 
     @GetMapping("/managers")
-    //Somente usuários com perfil MANAGERS poderá acessar este recurso;
-    @PreAuthorize("hasRole('MANAGERS')")
     public String managers() {
         return "Authorized manager <br> Tradução: Gerente autorizado";
     }
